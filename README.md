@@ -1,5 +1,3 @@
-# pjs-node-screen
-
 ## Description
 
 Use PhantomJS to create screenshots of webpages, as accessed through a web browser.  Visit a simple form which takes a url, sends it to the example PhantomJS "Rendering" code.  Image is saved and then displayed  

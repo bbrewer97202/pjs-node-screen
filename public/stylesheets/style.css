@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+  padding: 20px;
+	font: 16px sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.textField {
+	width: 400px;
+}
